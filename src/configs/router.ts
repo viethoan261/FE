@@ -1,0 +1,22 @@
+export const ROUTER = {
+  UNAUTHORIZE: '/unauthorize',
+  BASE: '/',
+  LOGIN: '/login',
+  PROFILE: '/profile',
+  DEPARTMENT: '/department',
+  DEPARTMENT_DETAILS: '/department/:id',
+  USER: '/user',
+  USER_DETAILS: '/user/:id',
+  ROLE: '/role',
+  ROLE_DETAILS: '/role/:id',
+  PERMISSION: '/permission',
+  TIME_OFF: '/my-time-off',
+  REQUEST: '/request',
+  NEWS: '/news',
+  DETAILS_NEWS: '/news/:id',
+  CREATE_NEWS: '/news/create-news',
+  MY_NEWS: '/my-news',
+  ATTENDANCE: '/attendance',
+  MY_ATTENDANCE: '/attendance/my-attendance',
+  SESSION: '/session'
+};

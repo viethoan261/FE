@@ -1,0 +1,15 @@
+{
+  "lang": {
+    "en": "EN",
+    "vi": "VI",
+    "choose": "Ngôn ngữ"
+  },
+  "auth": {
+    "login": "Đăng nhập",
+    "welcomeText": "Chào mừng quay trở lại. Đăng nhập để tiếp tục.",
+    "username": "Tên tài khoản",
+    "password": "Mật khẩu",
+    "enterUsername": "Nhập tên tài khoản",
+    "enterPassword": "Nhập mật khẩu"
+  }
+}
